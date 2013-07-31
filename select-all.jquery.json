@@ -27,7 +27,7 @@
     "bugs": "https://github.com/manikandanm/jquery.select-all/issues",
     "homepage": "https://github.com/manikandanm/jquery.select-all",
     "docs": "https://github.com/manikandanm/jquery.select-all",
-    "download": "http://code.jquery.com/#select-all",
+    "download": "https://github.com/manikandanm/jquery.select-all",
     "dependencies": {
         "jquery": ">=1.7"
     }
